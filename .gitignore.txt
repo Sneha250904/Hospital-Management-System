@@ -1,0 +1,44 @@
+# C++ Executables, Objects, and Artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.pdb
+*.idb
+HospitalSystem
+HospitalSystem.exe
+
+# Node.js and Dashboard Dependencies
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/build/
+dashboard/.vite/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs and debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archives and Zip files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+dashboard.zip
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.gemini/
